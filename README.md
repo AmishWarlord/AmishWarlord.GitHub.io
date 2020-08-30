@@ -6,4 +6,4 @@ I'm currently working on predictive modeling for Starbucks, and training virtual
 
 # News about me!
 Here's my latest [medium post](https://medium.com/@AmishWarlord/predicting-starbucks-customer-behavior-119fc3a43480)
-![Predicting Starbucks Consumer Behavior](/img/happycoffee.png)
+[![Predicting Starbucks Consumer Behavior](/img/happycoffee.png)](https://medium.com/@AmishWarlord/predicting-starbucks-customer-behavior-119fc3a43480)
