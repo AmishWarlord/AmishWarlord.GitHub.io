@@ -9,4 +9,4 @@ Here's my latest [medium post on predicting Starbucks consumer behavior!](https:
 [![Predicting Starbucks Consumer Behavior](/img/happycoffee.png)](https://medium.com/@AmishWarlord/predicting-starbucks-customer-behavior-119fc3a43480){:target="_blank" rel="noopener"}
 
 # Contact info
-[email: charlesmfry@gmail.com](mailto:charlesmfry@gmail.com)
+email: charlesmfry@gmail.com
