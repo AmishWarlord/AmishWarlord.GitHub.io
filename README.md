@@ -3,7 +3,7 @@ I’m a data scientist who tinkers on plenty of projects. I have degrees in Math
 
 # My Projects
 I co-created a [videogame about being a vampire in Pittsburgh](https://itch.io/jam/vtm/rate/1298082){:target="_blank" rel="noopener"}
-[![Prince of Nothing]('./img/pon.png')](https://itch.io/jam/vtm/rate/1298082){:target="_blank" rel="noopener"}
+[![Prince of Nothing]('/img/pon.png')](https://itch.io/jam/vtm/rate/1298082){:target="_blank" rel="noopener"}
 
 # News about me
 Febuary 2022: published a videogame on https://itch.io/jam/vtm/rate/1298082
@@ -17,4 +17,4 @@ Here's my [medium post on predicting Starbucks consumer behavior!](https://mediu
 # Contact info
 email: charlesmfry@gmail.com
 
-<img src='./img/nyan.gif/' width=250/>
+[NyanNyanNyan]('/img/nyan.gif/' width=250/)
