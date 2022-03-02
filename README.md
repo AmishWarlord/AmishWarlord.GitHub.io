@@ -3,6 +3,7 @@ I’m a data scientist who tinkers on plenty of projects. I have degrees in Math
 
 # My Projects
 I co-created a [videogame about being a vampire in Pittsburgh](https://itch.io/jam/vtm/rate/1298082){:target="_blank" rel="noopener"}
+<img src='/img/pon.png' width=250/>
 
 # News about me
 Febuary 2022: published a videogame on https://itch.io/jam/vtm/rate/1298082
